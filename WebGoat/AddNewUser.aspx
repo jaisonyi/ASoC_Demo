@@ -1,11 +1,16 @@
 <%@ Page Title="" Language="C#" MasterPageFile="~/Resources/Master-Pages/Site.Master" AutoEventWireup="true" CodeBehind="AddNewUser.aspx.cs" Inherits="OWASP.WebGoat.NET.AddNewUser" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContentPlaceHolder" runat="server">
     
+	
+	
 </asp:Content>
+
+
 
 <asp:Content ID="Content3" ContentPlaceHolderID="HelpContentPlaceholder" runat="server">
     This page allows you to add a new user
 </asp:Content>
+
 
 <asp:Content ID="Content2" ContentPlaceHolderID="BodyContentPlaceholder" runat="server">
 <h1 class="title-regular-4 clearfix">Add New User</h1>
